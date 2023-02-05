@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @RaunakJain21
-- 👀 I’m interested in CP and Web Development
+- 👀 I’m a frontend developer and I'm currently learning MERN Stack
 - 🌱 I’m currently in IInd year pursuing B.Tech in Computer Science from KIET Group of Institutions Ghaziabad
 
 <!---
